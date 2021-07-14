@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Probando Addcategory Snapshot de Addcategory 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <label
+    htmlFor="gift"
+  >
+    Busca un gift
+  </label>
+  <input
+    id="gift"
+    onChange={[Function]}
+    type="text"
+    value=""
+  />
+</form>
+`;

@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente GifGrid Se renderiza componente? 1`] = `
+<div
+  className="card animate__bounceIn"
+>
+  <figure
+    className="card__image"
+  >
+    <img
+      alt="un titulo"
+      src="https://localhost/algo.jpg"
+    />
+  </figure>
+  <p>
+    un titulo
+  </p>
+</div>
+`;
